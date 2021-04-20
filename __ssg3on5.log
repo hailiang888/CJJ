@@ -1,0 +1,301 @@
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=E:\上课录屏\210419\0418上午\git资料\笔记\Git.nyf, iMode=0x20002); pHandle=00000558, pStrm=02536898
+2021-04-19 12:41:14	INFO: ssg_open_ex2(sFn=E:\上课录屏\210419\0418上午\git资料\笔记\Git.nyf, bRO=1, offset=0); hStg=029D0F80
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\__identifying.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80C8.tmp); nBytes=-1
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\__hyperlinked_entries.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80C9.tmp); nBytes=-1
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\__symbolic_links.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80CA.tmp); nBytes=-1
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\__folder_linktable.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80DB.tmp); nBytes=-1
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\__custom_labels.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80DC.tmp); nBytes=-1
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\__reminders.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80DD.tmp); nBytes=-1
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\__bookmarks.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80DE.tmp); nBytes=-1
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj80EE.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj80EE.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80EE.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj80EF.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj80EF.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\1.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj80EF.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8100.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8100.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\2.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8100.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8101.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8101.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\3.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8101.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8102.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8102.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\4.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8102.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8112.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8112.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\5.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8112.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8113.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8113.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\6.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8113.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8124.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8124.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\7.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8124.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8125.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8125.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\8.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8125.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8126.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8126.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\9.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8126.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8137.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8137.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\a.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8137.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8138.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8138.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\b.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8138.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8148.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8148.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\c.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8148.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8149.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj8149.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\d.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj8149.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj814A.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj814A.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\e.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj814A.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj815B.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj815B.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\f.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj815B.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj815C.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj815C.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\10.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj815C.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj816D.tmp, iMode=0x1); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj816D.tmp); pHandle=00000454, pStrm=0019ED00
+2021-04-19 12:41:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\11.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj816D.tmp); nBytes=822
+2021-04-19 12:41:14	INFO: _CStorage::_loadRecycle(); Reading at (60936330, 105); nTagSize=14
+2021-04-19 12:41:14	INFO: _CRecycle::commit(); Done with (7) protected and (0) rewritable committed;
+2021-04-19 12:41:14	INFO: _CRecycle::protectExtent(60936330, 105); Recycle-Table extent inserted to Protect-List
+2021-04-19 12:41:14	INFO: _CStorage::merge(); Merge(#1) at (60802110, 1682) with (60802987, 805)
+2021-04-19 12:41:14	INFO: _CStorage::merge(); Merge(#2) at (60802110, 3456) with (60803792, 1774)
+2021-04-19 12:41:14	INFO: _CStorage::merge(); Merge(#3) at (60802110, 4150) with (60805566, 694)
+2021-04-19 12:41:14	INFO: _CStorage::merge(); Merge(#4) at (60802110, 4297) with (60806260, 147)
+2021-04-19 12:41:14	INFO: _CStorage::merge(); Merge(#5) at (60802110, 4447) with (60806407, 150)
+2021-04-19 12:41:14	INFO: _CStorage::merge(); Merge(#6) at (60802110, 4568) with (60806557, 121)
+2021-04-19 12:56:04	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125604-724\_~_~_notes.html, iMode=0x1); pHandle=00001014, pStrm=0019E9B4
+2021-04-19 12:56:04	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125604-724\_~_~_notes.html); pHandle=00001014, pStrm=0019E9B4
+2021-04-19 12:56:04	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\v1c\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125604-724\_~_~_notes.html); nBytes=108048
+2021-04-19 12:56:16	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125616-769\_~_~_notes.html, iMode=0x1); pHandle=0000133C, pStrm=0019E9EC
+2021-04-19 12:56:16	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125616-769\_~_~_notes.html); pHandle=0000133C, pStrm=0019E9EC
+2021-04-19 12:56:16	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\jfh\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125616-769\_~_~_notes.html); nBytes=194539
+2021-04-19 12:57:55	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125755-431\_~_~_notes.html, iMode=0x1); pHandle=00000BB8, pStrm=0019E9EC
+2021-04-19 12:57:55	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125755-431\_~_~_notes.html); pHandle=00000BB8, pStrm=0019E9EC
+2021-04-19 12:57:55	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\78l\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125755-431\_~_~_notes.html); nBytes=14098
+2021-04-19 12:57:59	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125759-109\_~_~_notes.html, iMode=0x1); pHandle=00000B58, pStrm=0019E9EC
+2021-04-19 12:57:59	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125759-109\_~_~_notes.html); pHandle=00000B58, pStrm=0019E9EC
+2021-04-19 12:57:59	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\i4a\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125759-109\_~_~_notes.html); nBytes=298208
+2021-04-19 12:58:00	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125800-412\_~_~_notes.html, iMode=0x1); pHandle=00000B48, pStrm=0019E9EC
+2021-04-19 12:58:00	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125800-412\_~_~_notes.html); pHandle=00000B48, pStrm=0019E9EC
+2021-04-19 12:58:00	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\78l\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125800-412\_~_~_notes.html); nBytes=14098
+2021-04-19 12:58:07	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125807-736\_~_~_notes.html, iMode=0x1); pHandle=000008D4, pStrm=0019E9EC
+2021-04-19 12:58:07	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125807-736\_~_~_notes.html); pHandle=000008D4, pStrm=0019E9EC
+2021-04-19 12:58:07	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\i4a\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-125807-736\_~_~_notes.html); nBytes=298208
+2021-04-19 13:02:52	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-130252-198\_~_~_notes.html, iMode=0x1); pHandle=00000DEC, pStrm=0019E9EC
+2021-04-19 13:02:52	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-130252-198\_~_~_notes.html); pHandle=00000DEC, pStrm=0019E9EC
+2021-04-19 13:02:52	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\ok2\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-130252-198\_~_~_notes.html); nBytes=162774
+2021-04-19 13:10:08	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131008-712\_~_~_notes.html, iMode=0x1); pHandle=000008F0, pStrm=0019E9EC
+2021-04-19 13:10:08	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131008-712\_~_~_notes.html); pHandle=000008F0, pStrm=0019E9EC
+2021-04-19 13:10:08	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\o5d\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131008-712\_~_~_notes.html); nBytes=205044
+2021-04-19 13:10:12	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131012-765\_~_~_notes.html, iMode=0x1); pHandle=00000710, pStrm=0019E9EC
+2021-04-19 13:10:12	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131012-765\_~_~_notes.html); pHandle=00000710, pStrm=0019E9EC
+2021-04-19 13:10:12	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\wbe\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131012-765\_~_~_notes.html); nBytes=165426
+2021-04-19 13:10:13	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131013-952\_~_~_notes.html, iMode=0x1); pHandle=000008EC, pStrm=0019E9EC
+2021-04-19 13:10:13	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131013-952\_~_~_notes.html); pHandle=000008EC, pStrm=0019E9EC
+2021-04-19 13:10:13	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\1uh\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131013-952\_~_~_notes.html); nBytes=85922
+2021-04-19 13:10:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131014-525\_~_~_notes.html, iMode=0x1); pHandle=00000F54, pStrm=0019E9EC
+2021-04-19 13:10:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131014-525\_~_~_notes.html); pHandle=00000F54, pStrm=0019E9EC
+2021-04-19 13:10:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\o5d\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131014-525\_~_~_notes.html); nBytes=205044
+2021-04-19 13:13:21	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131321-688\_~_~_notes.html, iMode=0x1); pHandle=00000CEC, pStrm=0019E9EC
+2021-04-19 13:13:21	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131321-688\_~_~_notes.html); pHandle=00000CEC, pStrm=0019E9EC
+2021-04-19 13:13:21	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\ok2\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131321-688\_~_~_notes.html); nBytes=162774
+2021-04-19 13:13:22	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\_~_~_notes.rtf, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131322-811\_~_~_notes.rtf); nBytes=-1
+2021-04-19 13:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131330-712\_~_~_notes.html, iMode=0x1); pHandle=00000CB4, pStrm=0019E9EC
+2021-04-19 13:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131330-712\_~_~_notes.html); pHandle=00000CB4, pStrm=0019E9EC
+2021-04-19 13:13:30	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\5m2\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131330-712\_~_~_notes.html); nBytes=72748
+2021-04-19 13:15:44	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131544-51\_~_~_notes.html, iMode=0x1); pHandle=00000774, pStrm=0019E9EC
+2021-04-19 13:15:44	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131544-51\_~_~_notes.html); pHandle=00000774, pStrm=0019E9EC
+2021-04-19 13:15:44	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\yuc\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131544-51\_~_~_notes.html); nBytes=191769
+2021-04-19 13:15:46	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131546-423\_~_~_notes.html, iMode=0x1); pHandle=00000CD4, pStrm=0019E9EC
+2021-04-19 13:15:46	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131546-423\_~_~_notes.html); pHandle=00000CD4, pStrm=0019E9EC
+2021-04-19 13:15:46	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\5m2\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131546-423\_~_~_notes.html); nBytes=72748
+2021-04-19 13:15:50	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131550-113\_~_~_notes.html, iMode=0x1); pHandle=00000CD4, pStrm=0019E9EC
+2021-04-19 13:15:50	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131550-113\_~_~_notes.html); pHandle=00000CD4, pStrm=0019E9EC
+2021-04-19 13:15:50	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\yuc\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-131550-113\_~_~_notes.html); nBytes=191769
+2021-04-19 13:26:12	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132612-205\_~_~_notes.html, iMode=0x1); pHandle=000006E4, pStrm=0019E9EC
+2021-04-19 13:26:12	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132612-205\_~_~_notes.html); pHandle=000006E4, pStrm=0019E9EC
+2021-04-19 13:26:12	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\ibn\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132612-205\_~_~_notes.html); nBytes=85180
+2021-04-19 13:26:41	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132641-375\_~_~_notes.html, iMode=0x1); pHandle=00000774, pStrm=0019E9EC
+2021-04-19 13:26:41	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132641-375\_~_~_notes.html); pHandle=00000774, pStrm=0019E9EC
+2021-04-19 13:26:41	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\tm5\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132641-375\_~_~_notes.html); nBytes=291920
+2021-04-19 13:27:20	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132720-74\_~_~_notes.html, iMode=0x1); pHandle=00000918, pStrm=0019E7F4
+2021-04-19 13:27:20	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132720-74\_~_~_notes.html); pHandle=00000918, pStrm=0019E7F4
+2021-04-19 13:27:20	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\8dc\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132720-74\_~_~_notes.html); nBytes=130700
+2021-04-19 13:27:25	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132725-136\_~_~_notes.html, iMode=0x1); pHandle=00000FAC, pStrm=0019E9EC
+2021-04-19 13:27:25	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132725-136\_~_~_notes.html); pHandle=00000FAC, pStrm=0019E9EC
+2021-04-19 13:27:25	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\tm5\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132725-136\_~_~_notes.html); nBytes=291920
+2021-04-19 13:29:26	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132926-673\_~_~_notes.html, iMode=0x1); pHandle=00001210, pStrm=0019E9EC
+2021-04-19 13:29:26	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132926-673\_~_~_notes.html); pHandle=00001210, pStrm=0019E9EC
+2021-04-19 13:29:26	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\ts1\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-132926-673\_~_~_notes.html); nBytes=15294
+2021-04-19 13:30:24	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133024-805\_~_~_notes.html, iMode=0x1); pHandle=000004F8, pStrm=0019E9EC
+2021-04-19 13:30:24	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133024-805\_~_~_notes.html); pHandle=000004F8, pStrm=0019E9EC
+2021-04-19 13:30:24	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\70m\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133024-805\_~_~_notes.html); nBytes=37665
+2021-04-19 13:30:48	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133048-904\_~_~_notes.html, iMode=0x1); pHandle=00001060, pStrm=0019E9EC
+2021-04-19 13:30:48	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133048-904\_~_~_notes.html); pHandle=00001060, pStrm=0019E9EC
+2021-04-19 13:30:48	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\64h\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133048-904\_~_~_notes.html); nBytes=154477
+2021-04-19 13:36:04	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133604-702\_~_~_notes.html, iMode=0x1); pHandle=00000B80, pStrm=0019E9EC
+2021-04-19 13:36:04	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133604-702\_~_~_notes.html); pHandle=00000B80, pStrm=0019E9EC
+2021-04-19 13:36:04	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\rnb\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133604-702\_~_~_notes.html); nBytes=69242
+2021-04-19 13:36:23	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133623-921\_~_~_notes.html, iMode=0x1); pHandle=00000A9C, pStrm=0019E9EC
+2021-04-19 13:36:23	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133623-921\_~_~_notes.html); pHandle=00000A9C, pStrm=0019E9EC
+2021-04-19 13:36:23	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\kv8\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133623-921\_~_~_notes.html); nBytes=175037
+2021-04-19 13:37:22	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133722-563\_~_~_notes.html, iMode=0x1); pHandle=00000A94, pStrm=0019E9EC
+2021-04-19 13:37:22	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133722-563\_~_~_notes.html); pHandle=00000A94, pStrm=0019E9EC
+2021-04-19 13:37:22	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\ts1\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133722-563\_~_~_notes.html); nBytes=15294
+2021-04-19 13:37:33	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\c3i\_~_~_notes.rtf, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133733-923\_~_~_notes.rtf); nBytes=-1
+2021-04-19 13:37:35	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133735-211\_~_~_notes.html, iMode=0x1); pHandle=00000C3C, pStrm=0019E9EC
+2021-04-19 13:37:35	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133735-211\_~_~_notes.html); pHandle=00000C3C, pStrm=0019E9EC
+2021-04-19 13:37:35	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\8dc\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133735-211\_~_~_notes.html); nBytes=130700
+2021-04-19 13:37:38	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133738-648\_~_~_notes.html, iMode=0x1); pHandle=00001210, pStrm=0019E9EC
+2021-04-19 13:37:38	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133738-648\_~_~_notes.html); pHandle=00001210, pStrm=0019E9EC
+2021-04-19 13:37:38	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\wbe\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133738-648\_~_~_notes.html); nBytes=165426
+2021-04-19 13:37:43	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133743-596\_~_~_notes.html, iMode=0x1); pHandle=00001130, pStrm=0019E9EC
+2021-04-19 13:37:43	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133743-596\_~_~_notes.html); pHandle=00001130, pStrm=0019E9EC
+2021-04-19 13:37:43	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\1uh\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133743-596\_~_~_notes.html); nBytes=85922
+2021-04-19 13:38:04	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133804-649\_~_~_notes.html, iMode=0x1); pHandle=00001060, pStrm=0019E9EC
+2021-04-19 13:38:04	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133804-649\_~_~_notes.html); pHandle=00001060, pStrm=0019E9EC
+2021-04-19 13:38:04	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\o5d\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133804-649\_~_~_notes.html); nBytes=205044
+2021-04-19 13:38:26	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133826-660\_~_~_notes.html, iMode=0x1); pHandle=00000B28, pStrm=0019E9EC
+2021-04-19 13:38:26	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133826-660\_~_~_notes.html); pHandle=00000B28, pStrm=0019E9EC
+2021-04-19 13:38:26	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\1uh\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-133826-660\_~_~_notes.html); nBytes=85922
+2021-04-19 13:40:14	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134014-22\_~_~_notes.html, iMode=0x1); pHandle=0000122C, pStrm=0019E9EC
+2021-04-19 13:40:14	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134014-22\_~_~_notes.html); pHandle=0000122C, pStrm=0019E9EC
+2021-04-19 13:40:14	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\szi\5m2\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134014-22\_~_~_notes.html); nBytes=72748
+2021-04-19 13:40:21	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134021-439\_~_~_notes.html, iMode=0x1); pHandle=0000053C, pStrm=0019E9EC
+2021-04-19 13:40:21	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134021-439\_~_~_notes.html); pHandle=0000053C, pStrm=0019E9EC
+2021-04-19 13:40:21	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\ok2\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134021-439\_~_~_notes.html); nBytes=162774
+2021-04-19 13:40:41	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134041-300\_~_~_notes.html, iMode=0x1); pHandle=000008F0, pStrm=0019E9EC
+2021-04-19 13:40:41	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134041-300\_~_~_notes.html); pHandle=000008F0, pStrm=0019E9EC
+2021-04-19 13:40:41	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\8dc\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134041-300\_~_~_notes.html); nBytes=130700
+2021-04-19 13:40:41	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134041-855\_~_~_notes.html, iMode=0x1); pHandle=000012C4, pStrm=0019E9EC
+2021-04-19 13:40:41	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134041-855\_~_~_notes.html); pHandle=000012C4, pStrm=0019E9EC
+2021-04-19 13:40:41	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\wbe\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134041-855\_~_~_notes.html); nBytes=165426
+2021-04-19 13:40:42	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134042-925\_~_~_notes.html, iMode=0x1); pHandle=00000C3C, pStrm=0019E9EC
+2021-04-19 13:40:42	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134042-925\_~_~_notes.html); pHandle=00000C3C, pStrm=0019E9EC
+2021-04-19 13:40:42	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\1uh\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134042-925\_~_~_notes.html); nBytes=85922
+2021-04-19 13:42:48	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134248-720\_~_~_notes.html, iMode=0x1); pHandle=00001044, pStrm=0019E9EC
+2021-04-19 13:42:48	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134248-720\_~_~_notes.html); pHandle=00001044, pStrm=0019E9EC
+2021-04-19 13:42:48	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\o5d\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-134248-720\_~_~_notes.html); nBytes=205044
+2021-04-19 13:55:12	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135512-667\_~_~_notes.html, iMode=0x1); pHandle=00000814, pStrm=0019E9EC
+2021-04-19 13:55:12	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135512-667\_~_~_notes.html); pHandle=00000814, pStrm=0019E9EC
+2021-04-19 13:55:12	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\33\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135512-667\_~_~_notes.html); nBytes=114239
+2021-04-19 13:55:27	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135527-300\_~_~_notes.html, iMode=0x1); pHandle=000008E4, pStrm=0019E9EC
+2021-04-19 13:55:27	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135527-300\_~_~_notes.html); pHandle=000008E4, pStrm=0019E9EC
+2021-04-19 13:55:27	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\o5d\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135527-300\_~_~_notes.html); nBytes=205044
+2021-04-19 13:58:42	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135842-993\_~_~_notes.html, iMode=0x1); pHandle=00000974, pStrm=0019E9EC
+2021-04-19 13:58:42	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135842-993\_~_~_notes.html); pHandle=00000974, pStrm=0019E9EC
+2021-04-19 13:58:42	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\33\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-135842-993\_~_~_notes.html); nBytes=114239
+2021-04-19 14:04:07	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140407-193\_~_~_notes.html, iMode=0x1); pHandle=00000C3C, pStrm=0019E9EC
+2021-04-19 14:04:07	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140407-193\_~_~_notes.html); pHandle=00000C3C, pStrm=0019E9EC
+2021-04-19 14:04:07	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\055\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140407-193\_~_~_notes.html); nBytes=144942
+2021-04-19 14:04:29	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\_~_~_notes.rtf, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140429-405\_~_~_notes.rtf); nBytes=-1
+2021-04-19 14:04:35	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140435-382\_~_~_notes.html, iMode=0x1); pHandle=000007E4, pStrm=0019E9EC
+2021-04-19 14:04:35	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140435-382\_~_~_notes.html); pHandle=000007E4, pStrm=0019E9EC
+2021-04-19 14:04:35	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\055\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140435-382\_~_~_notes.html); nBytes=144942
+2021-04-19 14:06:13	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140613-384\_~_~_notes.html, iMode=0x1); pHandle=000009BC, pStrm=0019E9EC
+2021-04-19 14:06:13	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140613-384\_~_~_notes.html); pHandle=000009BC, pStrm=0019E9EC
+2021-04-19 14:06:13	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\df7\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140613-384\_~_~_notes.html); nBytes=88076
+2021-04-19 14:07:27	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140727-597\_~_~_notes.html, iMode=0x1); pHandle=00000B10, pStrm=0019E9EC
+2021-04-19 14:07:27	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140727-597\_~_~_notes.html); pHandle=00000B10, pStrm=0019E9EC
+2021-04-19 14:07:27	INFO: ssg_export_file(hStg=029D0F80, sSsgFn=\Organizer\data\0\voi\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210419-140727-597\_~_~_notes.html); nBytes=547924
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=E:\上课录屏\210419\0418上午\git资料\笔记\Git.nyf, iMode=0x20002); pHandle=000004A8, pStrm=0248A1C8
+2021-04-20 18:13:30	INFO: ssg_open_ex2(sFn=E:\上课录屏\210419\0418上午\git资料\笔记\Git.nyf, bRO=1, offset=0); hStg=02952BF0
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\__identifying.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C2B.tmp); nBytes=-1
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\__hyperlinked_entries.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C2C.tmp); nBytes=-1
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\__symbolic_links.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C3D.tmp); nBytes=-1
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\__folder_linktable.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C3E.tmp); nBytes=-1
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\__custom_labels.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C3F.tmp); nBytes=-1
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\__reminders.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C40.tmp); nBytes=-1
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\__bookmarks.txt, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C41.tmp); nBytes=-1
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C52.tmp, iMode=0x1); pHandle=00000BEC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C52.tmp); pHandle=00000BEC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C52.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C53.tmp, iMode=0x1); pHandle=00000BEC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C53.tmp); pHandle=00000BEC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\1.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C53.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C63.tmp, iMode=0x1); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C63.tmp); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\2.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C63.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C64.tmp, iMode=0x1); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C64.tmp); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\3.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C64.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C75.tmp, iMode=0x1); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C75.tmp); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\4.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C75.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C86.tmp, iMode=0x1); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C86.tmp); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\5.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C86.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C87.tmp, iMode=0x1); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C87.tmp); pHandle=00000DAC, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\6.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C87.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C97.tmp, iMode=0x1); pHandle=0000058C, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7C97.tmp); pHandle=0000058C, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\7.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7C97.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CA8.tmp, iMode=0x1); pHandle=00000C60, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CA8.tmp); pHandle=00000C60, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\8.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CA8.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CA9.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CA9.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\9.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CA9.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CB9.tmp, iMode=0x1); pHandle=00000C60, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CB9.tmp); pHandle=00000C60, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\a.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CB9.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CBA.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CBA.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\b.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CBA.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CCB.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CCB.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\c.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CCB.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CDC.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CDC.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\d.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CDC.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CDD.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CDD.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\e.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CDD.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CED.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CED.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\f.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CED.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CFE.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CFE.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\10.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CFE.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CFF.tmp, iMode=0x1); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\~jj7CFF.tmp); pHandle=00000E10, pStrm=0019F60C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\11.bmp, sWinFn=C:\Users\海凉\AppData\Local\Temp\~jj7CFF.tmp); nBytes=822
+2021-04-20 18:13:30	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181330-793\_~_~_notes.html, iMode=0x1); pHandle=00000A8C, pStrm=0019E35C
+2021-04-20 18:13:30	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181330-793\_~_~_notes.html); pHandle=00000A8C, pStrm=0019E35C
+2021-04-20 18:13:30	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\voi\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181330-793\_~_~_notes.html); nBytes=547924
+2021-04-20 18:13:31	INFO: _CStorage::_loadRecycle(); Reading at (60936330, 105); nTagSize=14
+2021-04-20 18:13:31	INFO: _CRecycle::commit(); Done with (7) protected and (0) rewritable committed;
+2021-04-20 18:13:31	INFO: _CRecycle::protectExtent(60936330, 105); Recycle-Table extent inserted to Protect-List
+2021-04-20 18:13:31	INFO: _CStorage::merge(); Merge(#1) at (60802110, 1682) with (60802987, 805)
+2021-04-20 18:13:31	INFO: _CStorage::merge(); Merge(#2) at (60802110, 3456) with (60803792, 1774)
+2021-04-20 18:13:31	INFO: _CStorage::merge(); Merge(#3) at (60802110, 4150) with (60805566, 694)
+2021-04-20 18:13:31	INFO: _CStorage::merge(); Merge(#4) at (60802110, 4297) with (60806260, 147)
+2021-04-20 18:13:31	INFO: _CStorage::merge(); Merge(#5) at (60802110, 4447) with (60806407, 150)
+2021-04-20 18:13:31	INFO: _CStorage::merge(); Merge(#6) at (60802110, 4568) with (60806557, 121)
+2021-04-20 18:13:40	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181340-28\_~_~_notes.html, iMode=0x1); pHandle=000002E0, pStrm=0019E9EC
+2021-04-20 18:13:40	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181340-28\_~_~_notes.html); pHandle=000002E0, pStrm=0019E9EC
+2021-04-20 18:13:40	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\x47\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181340-28\_~_~_notes.html); nBytes=375125
+2021-04-20 18:13:42	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181342-342\_~_~_notes.html, iMode=0x1); pHandle=00000FB4, pStrm=0019E9EC
+2021-04-20 18:13:42	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181342-342\_~_~_notes.html); pHandle=00000FB4, pStrm=0019E9EC
+2021-04-20 18:13:42	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\df7\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181342-342\_~_~_notes.html); nBytes=88076
+2021-04-20 18:13:43	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181343-134\_~_~_notes.html, iMode=0x1); pHandle=00000F90, pStrm=0019E9EC
+2021-04-20 18:13:43	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181343-134\_~_~_notes.html); pHandle=00000F90, pStrm=0019E9EC
+2021-04-20 18:13:43	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\voi\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181343-134\_~_~_notes.html); nBytes=547924
+2021-04-20 18:13:45	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\szi\_~_~_notes.rtf, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181345-204\_~_~_notes.rtf); nBytes=-1
+2021-04-20 18:13:47	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181347-44\_~_~_notes.html, iMode=0x1); pHandle=00000F3C, pStrm=0019E9EC
+2021-04-20 18:13:47	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181347-44\_~_~_notes.html); pHandle=00000F3C, pStrm=0019E9EC
+2021-04-20 18:13:47	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\o5d\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181347-44\_~_~_notes.html); nBytes=205044
+2021-04-20 18:13:47	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181347-534\_~_~_notes.html, iMode=0x1); pHandle=00000FB4, pStrm=0019E9EC
+2021-04-20 18:13:47	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181347-534\_~_~_notes.html); pHandle=00000FB4, pStrm=0019E9EC
+2021-04-20 18:13:47	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\33\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181347-534\_~_~_notes.html); nBytes=114239
+2021-04-20 18:14:33	INFO: _CFileStream::open(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181433-804\_~_~_notes.html, iMode=0x1); pHandle=000007AC, pStrm=0019E9EC
+2021-04-20 18:14:33	INFO: _CFileStream::close(sFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181433-804\_~_~_notes.html); pHandle=000007AC, pStrm=0019E9EC
+2021-04-20 18:14:33	INFO: ssg_export_file(hStg=02952BF0, sSsgFn=\Organizer\data\0\o5d\_~_~_notes.html, sWinFn=C:\Users\海凉\AppData\Local\Temp\nyf-20210420-181433-804\_~_~_notes.html); nBytes=205044
